@@ -14,5 +14,6 @@
         "posH": 16,
         "color": "green",
         "title": "985S"
-    }
+    },
+	{"posX":  499, "posY": 208, "posW": 150, "posH": 16, "color": "green", "title": "BUS"}
 ]
