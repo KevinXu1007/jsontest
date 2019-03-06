@@ -1,0 +1,18 @@
+[
+    {
+        "posX": 140,
+        "posY": 208,
+        "posW": 160,
+        "posH": 16,
+        "color": "green",
+        "title": "MGS"
+    },
+    {
+        "posX": 309,
+        "posY": 208,
+        "posW": 180,
+        "posH": 16,
+        "color": "yellow",
+        "title": "985S"
+    }
+]
