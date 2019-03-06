@@ -4,7 +4,7 @@
         "posY": 208,
         "posW": 160,
         "posH": 16,
-        "color": "green",
+        "color": "yellow",
         "title": "MGS"
     },
     {
@@ -15,5 +15,5 @@
         "color": "green",
         "title": "985S"
     },
-	{"posX":  499, "posY": 208, "posW": 150, "posH": 16, "color": "yellow", "title": "BUS"}
+	{"posX":  499, "posY": 208, "posW": 150, "posH": 16, "color": "red", "title": "BUS"}
 ]
