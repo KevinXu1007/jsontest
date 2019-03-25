@@ -1,0 +1,3 @@
+[{"posX":1068,"posY":118,"posW":140,"posH":16,"color":"black","text":"45+ MPH","size":8,"font":"monospace","style":"normal","weight":"bold","angel":0},
+{"posX":1068,"posY":138,"posW":140,"posH":16,"color":"black","text":"25~45+ MPH","size":8,"font":"monospace","style":"normal","weight":"bold","angel":0},
+{"posX":1068,"posY":158,"posW":140,"posH":16,"color":"black","text":"<25 MPH","size":8,"font":"monospace","style":"normal","weight":"bold","angel":0}]
