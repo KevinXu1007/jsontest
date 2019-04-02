@@ -1,0 +1,18 @@
+[{"posX":  138, "posY": 72, "text": "$ 0.30", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  129, "posY": 482, "text": "$ 0.20", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  129, "posY": 512, "text": "$ 0.55", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  327, "posY": 482, "text": "$ 0.20", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  327, "posY": 512, "text": "$ 0.55", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  525, "posY": 482, "text": "$ 0.40", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  525, "posY": 512, "text": "$ 0.95", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  720, "posY": 482, "text": "$ 0.40", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  720, "posY": 512, "text": "$ 0.95", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  350, "posY": 72, "text": "$ 0.35", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  350, "posY":102, "text": "$ 0.65", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  560, "posY": 72, "text": "$ 0.20", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  560, "posY": 102, "text": "$ 0.85", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  769, "posY": 72, "text": "$ 0.25", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  769, "posY": 102, "text": "$ 1.10", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  979, "posY": 72, "text": "$ 0.25", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0},
+{"posX":  979, "posY": 102, "text": "$ 1.10", "color": "white", "font": "monospace", "size": 10, "style": "normal", "weight":"bold", "angle": 0}			
+          ]

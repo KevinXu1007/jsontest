@@ -1,0 +1,4 @@
+         [
+            {"posX":  598, "posY": 212, "text": "Pleasantdale Road", "color": "black", "font": "monospace", "size": 8, "style": "normal", "weight":"bold", "angle": 0},
+            {"posX":  728, "posY": 212, "text": "Shallowford Road", "color": "black", "font": "monospace", "size": 8, "style": "normal", "weight":"bold", "angle": 0}
+          ]
